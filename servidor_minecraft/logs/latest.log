@@ -1,0 +1,369 @@
+[01:02:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[01:02:54] [ServerMain/ERROR]: Couldn't load file/HealingBed 1.21.9-1.21.10.zip pack metadata: Pack declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[01:02:56] [ServerMain/INFO]: Loaded 1591 recipes
+[01:02:57] [ServerMain/INFO]: Loaded 1581 advancements
+[01:02:57] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[01:02:57] [Server thread/INFO]: Loading properties
+[01:02:57] [Server thread/INFO]: Default game type: SURVIVAL
+[01:02:57] [Server thread/INFO]: Generating keypair
+[01:02:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:02:57] [Server thread/INFO]: Using epoll channel type
+[01:02:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:02:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:02:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:02:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:02:57] [Server thread/INFO]: Preparing level "world"
+[01:02:57] [Server thread/INFO]: Loading 0 persistent chunks...
+[01:02:57] [Server thread/INFO]: Preparing spawn area: 100%
+[01:02:57] [Server thread/INFO]: Time elapsed: 17 ms
+[01:02:57] [Server thread/INFO]: Done (0.522s)! For help, type "help"
+[01:03:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:15:52] [Server thread/INFO]: NeroMr[/127.179.229.210:54045] logged in with entity id 45 at (2347.0160471946106, 111.0, -294.73122375428613)
+[01:15:52] [Server thread/INFO]: NeroMr joined the game
+[01:15:59] [Server thread/INFO]: SonyVergas[/127.185.51.182:48941] logged in with entity id 248 at (2276.391682054397, 111.0, -275.58353521829775)
+[01:15:59] [Server thread/INFO]: SonyVergas joined the game
+[01:20:59] [Server thread/INFO]: [NeroMr: Gamerule sendCommandFeedback is now set to: false]
+[01:21:43] [Server thread/INFO]: [Not Secure] <SonyVergas> uki me dijo
+[01:23:04] [Server thread/INFO]: [Not Secure] <SonyVergas> we
+[01:23:13] [Server thread/INFO]: [Not Secure] <SonyVergas> tienes 2 de hierro
+[01:24:30] [Server thread/INFO]: [Not Secure] <SonyVergas> yo ando acostado
+[01:26:11] [Server thread/INFO]: [Not Secure] <SonyVergas> si me nesesitas estare chambeando
+[01:28:31] [Server thread/INFO]: Uki[/127.203.47.160:45933] logged in with entity id 4655 at (2287.686675353929, 110.0, -263.69999998807907)
+[01:28:31] [Server thread/INFO]: Uki joined the game
+[01:30:35] [Server thread/INFO]: [NeroMr: Applied effect Regeneration to NeroMr]
+[01:36:57] [Server thread/INFO]: [Not Secure] <SonyVergas> dije que iba a chambear
+[01:37:17] [Server thread/INFO]: [Not Secure] <SonyVergas> saque 1 stack de hierro en menos de 5 min
+[01:37:49] [Server thread/INFO]: SonyVergas has made the advancement [Isn't It Iron Pick]
+[01:38:23] [Server thread/INFO]: [Not Secure] <SonyVergas> uki?
+[01:38:43] [Server thread/INFO]: [Not Secure] <Uki> diga sony
+[01:38:45] [Server thread/INFO]: [Not Secure] <SonyVergas> eso para despues que se casen
+[01:40:26] [Server thread/INFO]: [SonyVergas: Teleported SonyVergas to NeroMr]
+[01:42:25] [Server thread/INFO]: [Not Secure] <NeroMr> F2
+[01:42:47] [Server thread/INFO]: [Not Secure] <NeroMr> print
+[01:45:44] [Server thread/INFO]: [SonyVergas: Created team [arroz]]
+[01:45:59] [Server thread/INFO]: [SonyVergas: Added SonyVergas to team [arroz]]
+[01:46:06] [Server thread/INFO]: [SonyVergas: Added NeroMr to team [arroz]]
+[01:46:10] [Server thread/INFO]: [SonyVergas: Added Uki to team [arroz]]
+[01:50:37] [Server thread/INFO]: Uki has made the advancement [Ol' Betsy]
+[01:50:45] [Server thread/INFO]: [Not Secure] <SonyVergas> espere
+[01:51:38] [Server thread/INFO]: Uki was slain by Zombie
+[01:52:16] [Server thread/INFO]: [Not Secure] <SonyVergas> porque rompio la cama
+[01:52:36] [Server thread/INFO]: [SonyVergas: Teleported Uki to SonyVergas]
+[01:52:39] [Server thread/INFO]: [Uki: Teleported Uki to 2286.500000, 109.000000, -262.500000]
+[01:52:44] [Server thread/INFO]: [Not Secure] <SonyVergas> quieta
+[01:52:52] [Server thread/INFO]: [SonyVergas: Teleported Uki to SonyVergas]
+[01:53:41] [Server thread/INFO]: [Not Secure] <SonyVergas> listo su tamaño real
+[01:55:10] [Server thread/INFO]: NeroMr was slain by Zombie
+[01:55:40] [Netty Epoll Server IO #2/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:player_combat_kill
+io.netty.channel.StacklessClosedChannelException: null
+	at io.netty.channel.AbstractChannel.close(ChannelPromise)(Unknown Source) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+[02:14:52] [Server thread/INFO]: NeroMr lost connection: Disconnected
+[02:14:52] [Server thread/INFO]: NeroMr left the game
+[02:14:52] [Server thread/INFO]: SonyVergas lost connection: Disconnected
+[02:14:52] [Server thread/INFO]: SonyVergas left the game
+[02:14:52] [Server thread/INFO]: Uki lost connection: Disconnected
+[02:14:52] [Server thread/INFO]: Uki left the game
+[02:14:52] [Server thread/INFO]: Corchetes (/127.213.86.255:55175) lost connection: Disconnected
+[02:14:52] [Server thread/INFO]: SonyVergas (/127.185.51.182:49109) lost connection: Disconnected
+[02:14:52] [Server thread/INFO]: Corchetes (/127.213.86.255:40303) lost connection: Disconnected
+[02:14:52] [Server thread/INFO]: SonyVergas (/127.185.51.182:36425) lost connection: Disconnected
+[02:14:52] [Server thread/INFO]: SonyVergas (/127.185.51.182:40969) lost connection: Disconnected
+[02:14:52] [Server thread/INFO]: Corchetes (/127.213.86.255:36255) lost connection: Disconnected
+[02:14:52] [Server thread/INFO]: SonyVergas (/127.185.51.182:42743) lost connection: Disconnected
+[02:14:52] [Server thread/INFO]: SonyVergas (/127.185.51.182:51215) lost connection: Disconnected
+[02:14:52] [Server thread/INFO]: Corchetes (/127.213.86.255:41671) lost connection: Disconnected
+[02:14:52] [Server thread/INFO]: SonyVergas (/127.185.51.182:37061) lost connection: Disconnected
+[02:14:52] [Server thread/INFO]: NeroMr (/127.179.229.210:49525) lost connection: Disconnected
+[02:14:52] [Server thread/INFO]: NeroMr (/127.179.229.210:47539) lost connection: Disconnected
+[02:14:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1181549ms or 23630 ticks behind
+[02:15:10] [Server thread/INFO]: NeroMr[/127.179.229.210:42017] logged in with entity id 14657 at (2281.1691376079425, 107.9375, -268.905488798561)
+[02:15:10] [Server thread/INFO]: NeroMr joined the game
+[02:15:36] [Server thread/INFO]: SonyVergas[/127.185.51.182:46759] logged in with entity id 15091 at (2207.013746822293, 67.17675927506424, -410.2053089736586)
+[02:15:36] [Server thread/INFO]: SonyVergas joined the game
+[02:15:43] [Server thread/INFO]: [NeroMr: Created new objective [Vida]]
+[02:16:00] [Server thread/INFO]: [NeroMr: Set display slot list to show objective Vida]
+[02:17:57] [Server thread/INFO]: [Not Secure] <NeroMr> sony duerme
+[02:18:04] [Server thread/INFO]: [Not Secure] <SonyVergas> no tengo cama
+[02:19:11] [Server thread/INFO]: Villager cyx['Villager'/14608, l='ServerLevel[world]', x=2397.45, y=120.75, z=-298.85] died, message: 'Villager was slain by Zombie'
+[02:20:15] [Server thread/INFO]: [NeroMr: Teleported NeroMr to SonyVergas]
+[02:20:23] [Server thread/INFO]: [Not Secure] <SonyVergas> que quieres?
+[02:20:26] [Server thread/INFO]: [Not Secure] <NeroMr> a
+[02:20:32] [Server thread/INFO]: [Not Secure] <NeroMr> no mas vine a ver
+[02:20:38] [Server thread/INFO]: [Not Secure] <NeroMr> o tego ni espacio xd
+[02:20:43] [Server thread/INFO]: [Not Secure] <NeroMr> no tengo
+[02:23:06] [Server thread/INFO]: Uki[/127.203.47.160:44577] logged in with entity id 18168 at (2285.991387002353, 109.0, -262.4150984533975)
+[02:23:06] [Server thread/INFO]: Uki joined the game
+[02:23:21] [Server thread/INFO]: Villager cyx['Leatherworker'/14935, l='ServerLevel[world]', x=2292.20, y=64.50, z=-331.50] died, message: 'Leatherworker was slain by Zombie'
+[02:23:38] [Server thread/INFO]: Corchetes[/127.213.86.255:51191] logged in with entity id 18412 at (2327.300000011921, 111.0, -269.46113199964896)
+[02:23:38] [Server thread/INFO]: Corchetes joined the game
+[02:23:51] [Server thread/INFO]: NeroMr lost connection: Disconnected
+[02:23:51] [Server thread/INFO]: NeroMr left the game
+[02:23:57] [Server thread/INFO]: Corchetes has made the advancement [Sweet Dreams]
+[02:27:23] [Server thread/INFO]: NeroMr[/127.123.177.1:53865] logged in with entity id 21247 at (2206.960836546035, -26.0, -425.14254921933815)
+[02:27:23] [Server thread/INFO]: NeroMr joined the game
+[02:29:22] [Server thread/INFO]: [NeroMr: Gave 9999 experience levels to NeroMr]
+[02:29:32] [Server thread/INFO]: [NeroMr: Set own game mode to Spectator Mode]
+[02:29:34] [Server thread/INFO]: [NeroMr: Set own game mode to Survival Mode]
+[02:29:36] [Server thread/INFO]: [NeroMr: Set own game mode to Creative Mode]
+[02:29:49] [Server thread/INFO]: [Not Secure] <Uki> n°1
+[02:29:51] [Server thread/INFO]: [NeroMr: Set own game mode to Survival Mode]
+[02:29:57] [Server thread/INFO]: [Not Secure] <Corchetes> n°2
+[02:30:23] [Server thread/INFO]: [Not Secure] <Uki> la segunda opcion
+[02:30:28] [Server thread/INFO]: [Not Secure] <Corchetes> 90°S/72,7W
+[02:30:29] [Server thread/INFO]: [Not Secure] <Uki> XDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+[02:31:35] [Server thread/INFO]: SonyVergas was shot by Stray
+[02:31:50] [Server thread/INFO]: [NeroMr: Teleported NeroMr to Uki]
+[02:33:13] [Server thread/INFO]: SonyVergas has made the advancement [Diamonds!]
+[02:38:45] [Server thread/INFO]: SonyVergas has made the advancement [Cover Me with Diamonds]
+[02:39:22] [Server thread/INFO]: Ayato21vt[/127.239.152.198:46619] logged in with entity id 31685 at (2271.300000011921, 112.0, -244.30000001192093)
+[02:39:22] [Server thread/INFO]: Ayato21vt joined the game
+[02:42:24] [Server thread/INFO]: [NeroMr: Gamerule sendCommandFeedback is now set to: true]
+[02:42:31] [Server thread/INFO]: [Not Secure] <Corchetes> zzz
+[02:42:48] [Server thread/INFO]: Locating element minecraft:cherry_grove took 201 ms
+[02:43:02] [Server thread/INFO]: [NeroMr: Teleported NeroMr to 3692.500000, 71.000000, -1240.500000]
+[02:43:35] [Server thread/INFO]: [Not Secure] <SonyVergas> duermen?
+[02:43:39] [Server thread/INFO]: [NeroMr: Teleported NeroMr to Uki]
+[02:43:43] [Server thread/INFO]: [Not Secure] <Corchetes> estoy intgentando
+[02:43:48] [Server thread/INFO]: [Not Secure] <Uki> no tengo cama
+[02:43:53] [Server thread/INFO]: [Not Secure] <Uki> :,v
+[02:44:01] [Server thread/INFO]: [Not Secure] <Corchetes> nero resuelva
+[02:44:34] [Server thread/INFO]: NeroMr drowned
+[02:44:55] [Server thread/INFO]: [Not Secure] <Corchetes> duerme veneco de
+[02:45:03] [Server thread/INFO]: [Not Secure] <Uki> duerma sonyy
+[02:45:15] [Server thread/INFO]: Uki was slain by Zombie
+[02:45:18] [Server thread/INFO]: NeroMr lost connection: Disconnected
+[02:45:18] [Server thread/INFO]: NeroMr left the game
+[02:45:25] [Server thread/INFO]: [Not Secure] <SonyVergas> ....
+[02:46:27] [Server thread/INFO]: [Not Secure] <Corchetes> colocar /ban al que no mime
+[02:46:32] [Server thread/INFO]: Villager cyx['Farmer'/17111, l='ServerLevel[world]', x=2328.21, y=111.00, z=-269.30] died, message: 'Farmer was slain by Zombie'
+[02:48:27] [Server thread/INFO]: NeroMr[/127.123.177.1:53733] logged in with entity id 43692 at (840.5, 70.0, 23.5)
+[02:48:27] [Server thread/INFO]: NeroMr joined the game
+[02:48:40] [Server thread/INFO]: [NeroMr: Teleported NeroMr to Uki]
+[02:51:38] [Server thread/INFO]: [NeroMr: Set own game mode to Spectator Mode]
+[02:52:07] [Server thread/INFO]: [NeroMr: Set own game mode to Survival Mode]
+[02:53:17] [Server thread/INFO]: [NeroMr: Set own game mode to Spectator Mode]
+[02:53:27] [Server thread/INFO]: [NeroMr: Set own game mode to Survival Mode]
+[02:58:17] [Server thread/INFO]: Locating element minecraft:cherry_grove took 531 ms
+[02:59:08] [Server thread/INFO]: [Not Secure] <SonyVergas> pegale
+[02:59:16] [Server thread/INFO]: Uki was slain by Zombie
+[02:59:49] [Server thread/INFO]: [Uki: Teleported Uki to NeroMr]
+[03:00:07] [Server thread/WARN]: NeroMr moved too quickly! 3.0342183569073313,0.0,9.548358832329711
+[03:00:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2245ms or 44 ticks behind
+[03:00:27] [Server thread/INFO]: NeroMr was blown up by Creeper
+[03:01:21] [Server thread/INFO]: [NeroMr: Teleported NeroMr to Uki]
+[03:02:59] [Server thread/INFO]: Uki drowned
+[03:03:40] [Server thread/INFO]: [Uki: Teleported Uki to NeroMr]
+[03:03:40] [Server thread/INFO]: [NeroMr: Teleported Uki to NeroMr]
+[03:03:51] [Server thread/INFO]: Ayato21vt has made the advancement [What a Deal!]
+[03:04:37] [Server thread/INFO]: [Not Secure] <Corchetes> 3673/65/492
+[03:05:06] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to 3673.500000, 65.000000, 492.500000]
+[03:05:24] [Server thread/INFO]: Locating element minecraft:cherry_grove took 601 ms
+[03:05:39] [Server thread/INFO]: Uki lost connection: Disconnected
+[03:05:39] [Server thread/INFO]: Uki left the game
+[03:06:17] [Server thread/INFO]: NeroMr was blown up by Creeper
+[03:06:20] [Server thread/INFO]: Uki[/127.203.47.160:57417] logged in with entity id 72921 at (3745.170763736671, 64.27516327900872, 486.6651467777662)
+[03:06:20] [Server thread/INFO]: Uki joined the game
+[03:06:32] [Server thread/INFO]: [NeroMr: Teleported NeroMr to Uki]
+[03:11:04] [Server thread/INFO]: [NeroMr: Teleported Uki to NeroMr]
+[03:23:08] [Server thread/INFO]: Villager cyx['Leatherworker'/14936, l='ServerLevel[world]', x=2308.18, y=65.00, z=-310.82] died, message: 'Leatherworker was slain by Drowned'
+[03:24:24] [Server thread/INFO]: Ayato21vt has made the advancement [Ice Bucket Challenge]
+[03:25:50] [Server thread/INFO]: [Uki: Teleported Uki to NeroMr]
+[03:26:37] [Server thread/INFO]: Uki was slain by Zombie
+[03:26:48] [Server thread/INFO]: [Uki: Teleported Uki to NeroMr]
+[03:26:57] [Server thread/INFO]: [Not Secure] <NeroMr> 4218 95 2720
+[03:28:29] [Server thread/INFO]: Corchetes fell from a high place
+[03:28:42] [Server thread/INFO]: [Not Secure] <Corchetes> tp
+[03:28:47] [Server thread/INFO]: Ayato21vt fell from a high place
+[03:29:00] [Server thread/INFO]: [NeroMr: Teleported Corchetes to Uki]
+[03:30:25] [Server thread/INFO]: Corchetes fell from a high place
+[03:30:30] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to NeroMr]
+[03:30:41] [Server thread/INFO]: [Not Secure] <Corchetes> aca hay otro érro
+[03:30:45] [Server thread/INFO]: [Not Secure] <Corchetes> color naranja
+[03:30:50] [Server thread/INFO]: NeroMr fell from a high place
+[03:30:56] [Server thread/INFO]: [Not Secure] <Corchetes> uki tp
+[03:30:59] [Server thread/INFO]: [NeroMr: Teleported NeroMr to Uki]
+[03:31:06] [Server thread/INFO]: [Uki: Teleported Corchetes to Uki]
+[03:33:03] [Server thread/INFO]: [NeroMr: Gamerule sendCommandFeedback is now set to: false]
+[03:33:14] [Server thread/INFO]: [NeroMr: Teleported NeroMr to Ayato21vt]
+[03:34:07] [Server thread/INFO]: [Not Secure] <SonyVergas> granjero
+[03:34:12] [Server thread/INFO]: [Not Secure] <Corchetes> pescador
+[03:35:19] [Server thread/INFO]: [NeroMr: Set own game mode to Creative Mode]
+[03:35:49] [Server thread/INFO]: [NeroMr: Set own game mode to Survival Mode]
+[03:35:51] [Server thread/INFO]: [Not Secure] <Corchetes> esa aldea tiene ahumador?
+[03:36:33] [Server thread/INFO]: [Not Secure] <Corchetes> ayato siendo vecino xd
+[03:38:25] [Server thread/INFO]: Ayato21vt was impaled on a stalagmite
+[03:38:50] [Server thread/INFO]: NeroMr lost connection: Disconnected
+[03:38:50] [Server thread/INFO]: NeroMr left the game
+[03:40:34] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to Uki]
+[03:40:52] [Server thread/INFO]: SonyVergas has made the advancement [Isn't It Scute?]
+[03:44:25] [Server thread/INFO]: [Uki: Teleported Uki to Corchetes]
+[03:45:44] [Server thread/INFO]: [Not Secure] <Corchetes> ya lo hice chaufa
+[03:49:33] [Server thread/INFO]: [Uki: Gave 45 [Raw Salmon] to Uki]
+[03:50:20] [Server thread/INFO]: Ayato21vt fell from a high place
+[03:50:49] [Server thread/INFO]: [Not Secure] <Corchetes> duerman
+[03:51:12] [Server thread/INFO]: [Not Secure] <Corchetes> sony duerme
+[03:51:15] [Server thread/INFO]: [Uki: Teleported Uki to Corchetes]
+[03:52:34] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to Corchetes]
+[03:54:12] [Server thread/INFO]: [Uki: Teleported Uki to 4192.500000, 101.000000, 2670.500000]
+[03:54:56] [Server thread/INFO]: [Not Secure] <SonyVergas> agachate al minar
+[03:55:43] [Server thread/INFO]: [Not Secure] <Corchetes> ok
+[03:57:51] [Server thread/INFO]: Locating element minecraft:ancient_city took 35 ms
+[03:57:56] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to Uki]
+[03:58:17] [Server thread/INFO]: [Not Secure] <Uki> NO FUNCIONO XD
+[03:58:34] [Server thread/INFO]: [Not Secure] <Corchetes> pones /locate acient
+[03:58:44] [Server thread/INFO]: Locating element minecraft:ancient_city took 0 ms
+[03:58:53] [Server thread/INFO]: NeroMr[/127.123.177.1:39793] logged in with entity id 148183 at (4175.549888531603, 79.0, 2581.0458499631827)
+[03:58:53] [Server thread/INFO]: NeroMr joined the game
+[03:59:01] [Server thread/INFO]: Locating element minecraft:ancient_city took 0 ms
+[03:59:08] [Server thread/INFO]: [NeroMr: Gamerule sendCommandFeedback is now set to: true]
+[03:59:13] [Server thread/INFO]: Locating element minecraft:ancient_city took 0 ms
+[03:59:13] [Server thread/INFO]: [Not Secure] <NeroMr> xd
+[03:59:28] [Server thread/INFO]: [Not Secure] <SonyVergas> 3616 ~ 2704
+[03:59:30] [Server thread/INFO]: Locating element minecraft:ancient_city took 0 ms
+[03:59:36] [Server thread/INFO]: [Not Secure] <SonyVergas> ahi tienes
+[03:59:37] [Server thread/INFO]: [Not Secure] <Uki> :v
+[04:00:53] [Server thread/INFO]: [Not Secure] <SonyVergas> Quitales el inventori para que no se arrieguen nero
+[04:00:53] [Server thread/INFO]: [Not Secure] <NeroMr> xe
+[04:01:13] [Server thread/INFO]: [Not Secure] <NeroMr> no me puedo agachar xd
+[04:02:09] [Server thread/INFO]: [Not Secure] <SonyVergas> no
+[04:02:41] [Server thread/INFO]: [Not Secure] <Uki> qwq
+[04:02:44] [Server thread/INFO]: [Not Secure] <Uki> neroooooo}
+[04:02:46] [Server thread/INFO]: [Not Secure] <SonyVergas> Si se mueren le quitas un item del inventario nero
+[04:03:03] [Server thread/INFO]: [Not Secure] <Uki> concuerdo xd
+[04:03:06] [Server thread/INFO]: [Not Secure] <NeroMr> que paso?
+[04:03:13] [Server thread/INFO]: [Not Secure] <Uki> HOLIS
+[04:03:20] [Server thread/INFO]: [Not Secure] <NeroMr> Holis jsjs
+[04:03:27] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to 4192.500000, 101.000000, 2670.500000]
+[04:04:05] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to Corchetes]
+[04:04:32] [Server thread/INFO]: [Not Secure] <Uki> por que anda quieto nerooo
+[04:04:50] [Server thread/INFO]: [Not Secure] <Uki> perdoon
+[04:04:52] [Server thread/INFO]: [Not Secure] <NeroMr> andaba configurando la baina está d
+[04:04:58] [Server thread/INFO]: [Not Secure] <Uki> okeyy
+[04:05:19] [Server thread/INFO]: [Not Secure] <NeroMr> porque no hablas?
+[04:05:26] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to Uki]
+[04:05:29] [Server thread/INFO]: [Not Secure] <Uki> taba en pinteres y se salio
+[04:05:33] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to Corchetes]
+[04:05:36] [Server thread/INFO]: [Not Secure] <Uki> dwb
+[04:05:38] [Server thread/INFO]: [Not Secure] <NeroMr> xd
+[04:05:58] [Server thread/INFO]: [Not Secure] <SonyVergas> Por cada vez que los mate el warden le quita 1 corazon permanente nero
+[04:06:00] [Server thread/INFO]: [Not Secure] <Uki> 7u7
+[04:06:08] [Server thread/INFO]: [Not Secure] <Corchetes> permadeath?
+[04:06:10] [Server thread/INFO]: [Not Secure] <NeroMr> ?
+[04:06:17] [Server thread/INFO]: [Not Secure] <Uki> ?
+[04:06:32] [Server thread/INFO]: [Not Secure] <Corchetes> ?
+[04:07:40] [Server thread/INFO]: [Not Secure] <Uki> iigual ya me taban diciendo para ir a mimir
+[04:07:53] [Server thread/INFO]: [Not Secure] <NeroMr> uy
+[04:08:08] [Server thread/INFO]: [Not Secure] <Uki> onde anda el resto xd
+[04:08:16] [Server thread/INFO]: [Not Secure] <NeroMr> buena pregunta
+[04:08:19] [Server thread/INFO]: [Not Secure] <Corchetes> en el castillo infinito
+[04:08:50] [Server thread/INFO]: [Not Secure] <Uki> tenia que ser hombre
+[04:08:57] [Server thread/INFO]: [Not Secure] <Corchetes> buscando una acient city
+[04:09:05] [Server thread/INFO]: [Not Secure] <SonyVergas> el ultimo en dormir le gusta el RISA
+[04:09:16] [Server thread/INFO]: [Not Secure] <Uki> aaaaaaaaaaa
+[04:09:35] [Server thread/INFO]: [Not Secure] <Uki> ya
+[04:09:42] [Server thread/INFO]: Ayato21vt fell from a high place
+[04:09:48] [Server thread/INFO]: [Not Secure] <NeroMr> ya
+[04:09:48] [Server thread/INFO]: Corchetes lost connection: Disconnected
+[04:09:48] [Server thread/INFO]: Corchetes left the game
+[04:09:59] [Server thread/INFO]: Corchetes[/127.213.86.255:57893] logged in with entity id 157907 at (3701.0212385518935, 95.0, 2705.7521928889464)
+[04:09:59] [Server thread/INFO]: Corchetes joined the game
+[04:10:10] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to Uki]
+[04:10:15] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to Corchetes]
+[04:11:11] [Server thread/INFO]: [Not Secure] <SonyVergas> los zetas?
+[04:12:03] [Server thread/INFO]: [Not Secure] <NeroMr> okis
+[04:12:04] [Server thread/INFO]: Villager cyx['Butcher'/109425, l='ServerLevel[world]', x=4219.57, y=63.00, z=2584.47] died, message: 'Butcher was slain by Zombie'
+[04:13:34] [Server thread/INFO]: [Not Secure] <NeroMr> después toca reunir materiales para la casa
+[04:13:48] [Server thread/INFO]: SonyVergas has made the advancement [Ice Bucket Challenge]
+[04:14:09] [Server thread/INFO]: [Not Secure] <SonyVergas> acabo de encontrar un portal que le falta 1 bloque pa completarse
+[04:14:16] [Server thread/INFO]: Corchetes has made the advancement [Sneak 100]
+[04:14:20] [Server thread/INFO]: [NeroMr: Gamerule sendCommandFeedback is now set to: false]
+[04:14:38] [Server thread/INFO]: [NeroMr: Set own game mode to Creative Mode]
+[04:15:47] [Server thread/INFO]: [Not Secure] <SonyVergas> claro que no lo lograremos porque ya las penso
+[04:17:44] [Server thread/INFO]: [NeroMr: Set own game mode to Survival Mode]
+[04:18:09] [Server thread/INFO]: [Not Secure] <Corchetes> nero quieres farmear acien city?
+[04:18:18] [Server thread/INFO]: [Not Secure] <SonyVergas> no lo esta
+[04:18:32] [Server thread/INFO]: [Not Secure] <NeroMr> vuelvonporque escuché un golpe
+[04:18:38] [Server thread/INFO]: [Not Secure] <Corchetes> ok
+[04:18:51] [Server thread/INFO]: Uki fell from a high place
+[04:18:55] [Server thread/INFO]: [Not Secure] <NeroMr> el Sony me golpe
+[04:19:39] [Server thread/INFO]: Ayato21vt has made the advancement [Sneak 100]
+[04:19:42] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to Corchetes]
+[04:20:09] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to Uki]
+[04:20:19] [Server thread/INFO]: [Not Secure] <NeroMr> xd
+[04:20:50] [Server thread/INFO]: [Uki: Teleported Uki to Corchetes]
+[04:21:09] [Server thread/INFO]: [Not Secure] <NeroMr> ya vuelvo, voy a ver algo
+[04:21:12] [Server thread/INFO]: Uki has made the advancement [Sneak 100]
+[04:21:16] [Server thread/INFO]: [Not Secure] <SonyVergas> tu error creerle
+[04:21:30] [Server thread/INFO]: Corchetes lost connection: Timed out
+[04:21:30] [Server thread/INFO]: Corchetes left the game
+[04:21:39] [Server thread/INFO]: Corchetes[/127.213.86.255:58503] logged in with entity id 169842 at (3598.051711544485, -49.0, 2619.9048692436745)
+[04:21:39] [Server thread/INFO]: Corchetes joined the game
+[04:21:43] [Server thread/INFO]: Uki lost connection: Timed out
+[04:21:43] [Server thread/INFO]: Uki left the game
+[04:22:09] [Server thread/INFO]: Corchetes lost connection: Timed out
+[04:22:09] [Server thread/INFO]: Corchetes left the game
+[04:22:10] [Server thread/INFO]: Uki (eedd79f4-52d7-3907-b135-85c2fee27c97) lost connection: Timed out
+[04:22:16] [Server thread/INFO]: Corchetes[/127.213.86.255:57413] logged in with entity id 170354 at (3598.051711544485, -49.0, 2619.9048692436745)
+[04:22:16] [Server thread/INFO]: Corchetes joined the game
+[04:23:09] [Server thread/INFO]: Uki[/127.203.47.160:48649] logged in with entity id 170905 at (3598.3194116765562, -49.0, 2618.620004269898)
+[04:23:09] [Server thread/INFO]: Uki joined the game
+[04:23:31] [Server thread/INFO]: Corchetes lost connection: Timed out
+[04:23:31] [Server thread/INFO]: Corchetes left the game
+[04:23:39] [Server thread/INFO]: Uki lost connection: Timed out
+[04:23:39] [Server thread/INFO]: Uki left the game
+[04:23:48] [Server thread/INFO]: Uki[/127.203.47.160:47233] logged in with entity id 171148 at (3598.3194116765562, -49.0, 2618.620004269898)
+[04:23:48] [Server thread/INFO]: Uki joined the game
+[04:23:50] [Server thread/INFO]: Corchetes[/127.213.86.255:53959] logged in with entity id 171318 at (3581.450720867433, -51.0, 2612.000299847516)
+[04:23:50] [Server thread/INFO]: Corchetes joined the game
+[04:24:01] [Server thread/INFO]: [Not Secure] <SonyVergas> ....
+[04:24:18] [Server thread/INFO]: Uki lost connection: Timed out
+[04:24:18] [Server thread/INFO]: Uki left the game
+[04:24:20] [Server thread/INFO]: Corchetes lost connection: Timed out
+[04:24:20] [Server thread/INFO]: Corchetes left the game
+[04:25:16] [Server thread/INFO]: Uki[/127.203.47.160:43391] logged in with entity id 171799 at (3598.3194116765562, -49.0, 2618.620004269898)
+[04:25:16] [Server thread/INFO]: Uki joined the game
+[04:25:31] [Server thread/INFO]: Corchetes[/127.213.86.255:53519] logged in with entity id 172105 at (3581.450720867433, -51.0, 2612.000299847516)
+[04:25:31] [Server thread/INFO]: Corchetes joined the game
+[04:25:36] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to Uki]
+[04:25:37] [Server thread/INFO]: /127.213.86.255:34813 lost connection: Timed out
+[04:26:18] [Server thread/INFO]: [Not Secure] <SonyVergas> Si mueren por warden se les quita un cora
+[04:28:00] [Server thread/INFO]: Corchetes lost connection: Disconnected
+[04:28:00] [Server thread/INFO]: Corchetes left the game
+[04:28:10] [Server thread/INFO]: [NeroMr: Set own game mode to Creative Mode]
+[04:28:16] [Server thread/INFO]: Uki lost connection: Timed out
+[04:28:16] [Server thread/INFO]: Uki left the game
+[04:28:33] [Server thread/INFO]: Uki[/127.203.47.160:40557] logged in with entity id 173652 at (3618.6824097602503, -50.0, 2678.19512277666)
+[04:28:33] [Server thread/INFO]: Uki joined the game
+[04:28:33] [Server thread/INFO]: Corchetes[/127.213.86.255:33795] logged in with entity id 173662 at (3592.627457611389, -39.0, 2602.868121586139)
+[04:28:33] [Server thread/INFO]: Corchetes joined the game
+[04:28:46] [Server thread/INFO]: /127.213.86.255:34333 lost connection: Timed out
+[04:28:49] [Server thread/INFO]: Corchetes lost connection: Disconnected
+[04:28:49] [Server thread/INFO]: Corchetes left the game
+[04:28:58] [Server thread/INFO]: Corchetes[/127.213.86.255:54229] logged in with entity id 173965 at (3592.627457611389, -39.0, 2602.868121586139)
+[04:28:58] [Server thread/INFO]: Corchetes joined the game
+[04:29:02] [Server thread/INFO]: [Uki: Teleported Uki to NeroMr]
+[04:29:03] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to Corchetes]
+[04:29:28] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to NeroMr]
+[04:29:53] [Server thread/INFO]: [NeroMr: Set own game mode to Survival Mode]
+[04:30:15] [Server thread/INFO]: Corchetes was obliterated by a sonically-charged shriek
+[04:30:21] [Server thread/INFO]: [Not Secure] <NeroMr> xd
+[04:30:48] [Server thread/INFO]: [Not Secure] <Corchetes> otra otra otra :v
+[04:31:42] [Server thread/INFO]: Corchetes lost connection: Disconnected
+[04:31:42] [Server thread/INFO]: Corchetes left the game
+[04:34:29] [Server thread/INFO]: [Not Secure] <SonyVergas> como que 2 aldeas hay 3 aldeas alrededor
+[04:34:38] [Server thread/INFO]: [Not Secure] <NeroMr> yo me iré en un ratito
+[04:34:40] [Server thread/INFO]: [Uki: Teleported Uki to SonyVergas]
+[04:35:54] [Server thread/INFO]: [NeroMr: Set own game mode to Creative Mode]
+[04:36:31] [Server thread/INFO]: [Not Secure] <SonyVergas> el viento no hace daño
+[04:37:24] [Server thread/INFO]: Ayato21vt was impaled on a stalagmite
+[04:37:43] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to Uki]
+[04:38:50] [Server thread/INFO]: [Uki: Teleported Uki to Ayato21vt]
+[04:39:00] [Server thread/INFO]: Uki fell from a high place
+[04:39:00] [Server thread/INFO]: Ayato21vt fell from a high place
+[04:39:01] [Server thread/INFO]: [Not Secure] <SonyVergas> el viento no hace daño
+[04:39:03] [Server thread/INFO]: [SonyVergas: Teleported Uki to SonyVergas]
+[04:39:08] [Server thread/INFO]: Ayato21vt lost connection: Disconnected
+[04:39:08] [Server thread/INFO]: Ayato21vt left the game
+[04:39:30] [Server thread/INFO]: Uki lost connection: Disconnected
+[04:39:30] [Server thread/INFO]: Uki left the game
+[04:40:17] [Server thread/INFO]: [NeroMr: Set own game mode to Survival Mode]
