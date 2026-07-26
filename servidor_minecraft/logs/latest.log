@@ -1,0 +1,861 @@
+[01:47:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[01:47:41] [ServerMain/ERROR]: Couldn't load file/HealingBed 1.21.9-1.21.10.zip pack metadata: Pack declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[01:47:43] [ServerMain/INFO]: Loaded 1591 recipes
+[01:47:43] [ServerMain/INFO]: Loaded 1581 advancements
+[01:47:43] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[01:47:43] [Server thread/INFO]: Loading properties
+[01:47:43] [Server thread/INFO]: Default game type: SURVIVAL
+[01:47:43] [Server thread/INFO]: Generating keypair
+[01:47:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:47:43] [Server thread/INFO]: Using epoll channel type
+[01:47:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:47:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:47:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:47:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:47:43] [Server thread/INFO]: Preparing level "world"
+[01:47:44] [Server thread/INFO]: Loading 0 persistent chunks...
+[01:47:44] [Server thread/INFO]: Preparing spawn area: 100%
+[01:47:44] [Server thread/INFO]: Time elapsed: 16 ms
+[01:47:44] [Server thread/INFO]: Done (0.423s)! For help, type "help"
+[01:48:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:51:30] [Server thread/INFO]: NeroMr[/127.123.177.1:39659] logged in with entity id 72 at (4141.363744826739, 80.0, 2578.300000011921)
+[01:51:30] [Server thread/INFO]: NeroMr joined the game
+[01:52:00] [Server thread/INFO]: NeroMr lost connection: Timed out
+[01:52:00] [Server thread/INFO]: NeroMr left the game
+[01:53:00] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:54:26] [Server thread/INFO]: NeroMr[/127.123.177.1:38269] logged in with entity id 382 at (4141.363744826739, 80.0, 2578.300000011921)
+[01:54:26] [Server thread/INFO]: NeroMr joined the game
+[01:55:15] [Server thread/INFO]: Uki[/127.203.47.160:35761] logged in with entity id 577 at (4237.212473928571, 101.0, 2623.2863860027305)
+[01:55:15] [Server thread/INFO]: Uki joined the game
+[01:55:41] [Server thread/INFO]: [Not Secure] <Uki> holis buenas
+[01:55:46] [Server thread/INFO]: [Uki: Teleported Uki to NeroMr]
+[01:56:16] [Server thread/INFO]: [Not Secure] <NeroMr> holis holis jsjsj+
+[01:56:24] [Server thread/INFO]: [Not Secure] <Uki> y los demas
+[01:56:33] [Server thread/INFO]: [Not Secure] <NeroMr> recien van viniendo
+[01:56:37] [Server thread/INFO]: [NeroMr: Set own game mode to Survival Mode]
+[01:56:38] [Server thread/INFO]: [Not Secure] <Uki> okis
+[01:57:38] [Server thread/INFO]: [Not Secure] <Uki> yo primero wa comer asi que estare afk
+[01:57:47] [Server thread/INFO]: [Not Secure] <NeroMr> okis okis, provechito
+[01:57:56] [Server thread/INFO]: Corchetes[/127.213.86.255:40961] logged in with entity id 1100 at (4237.345430053396, 101.5625, 2625.0140678024186)
+[01:57:56] [Server thread/INFO]: Corchetes joined the game
+[01:58:11] [Server thread/INFO]: Ayato21vt[/127.244.42.36:48965] logged in with entity id 1277 at (4566.699999988079, 64.0, 2558.825664122409)
+[01:58:11] [Server thread/INFO]: Ayato21vt joined the game
+[01:58:29] [Server thread/INFO]: [Not Secure] <Uki> tenkius
+[01:58:33] [Server thread/INFO]: [Not Secure] <Corchetes> A
+[01:58:42] [Server thread/INFO]: [Not Secure] <Ayato21vt> wenas uki
+[01:59:33] [Server thread/INFO]: [Not Secure] <Corchetes> alguno tiene pizarra profunda?
+[01:59:45] [Server thread/INFO]: [Not Secure] <NeroMr> nop
+[01:59:54] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to Corchetes]
+[02:02:24] [Server thread/INFO]: [NeroMr: Set own game mode to Creative Mode]
+[02:02:35] [Server thread/INFO]: [NeroMr: Set own game mode to Spectator Mode]
+[02:02:35] [Server thread/INFO]: [NeroMr: Set own game mode to Creative Mode]
+[02:02:57] [Server thread/INFO]: NeroMr lost connection: Timed out
+[02:02:57] [Server thread/INFO]: NeroMr left the game
+[02:03:36] [Server thread/INFO]: SonyVergas[/127.185.51.182:36883] logged in with entity id 4344 at (4263.487984430865, 85.0, 2626.7055312792545)
+[02:03:36] [Server thread/INFO]: SonyVergas joined the game
+[02:03:48] [Server thread/INFO]: [Not Secure] <Uki> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[02:03:53] [Server thread/INFO]: [Not Secure] <Uki> ola sony
+[02:05:41] [Server thread/INFO]: SonyVergas lost connection: You logged in from another location
+[02:05:41] [Server thread/INFO]: SonyVergas left the game
+[02:05:41] [Server thread/INFO]: SonyVergas[/127.185.51.182:60841] logged in with entity id 5872 at (4308.4014006397565, 70.0, 2615.562817921943)
+[02:05:41] [Server thread/INFO]: SonyVergas joined the game
+[02:05:51] [Server thread/INFO]: Corchetes lost connection: Disconnected
+[02:05:51] [Server thread/INFO]: Corchetes left the game
+[02:05:57] [Server thread/INFO]: Corchetes[/127.213.86.255:52827] logged in with entity id 6237 at (3959.946725636965, 71.0, 2652.055776180157)
+[02:05:57] [Server thread/INFO]: Corchetes joined the game
+[02:06:50] [Server thread/INFO]: [Not Secure] <Uki> sonyyyyyyyyyyyy
+[02:06:55] [Server thread/INFO]: [Not Secure] <SonyVergas> digame
+[02:07:06] [Server thread/INFO]: [Not Secure] <Uki> buenas porque no habla
+[02:07:11] [Server thread/INFO]: [Not Secure] <SonyVergas> sabe que puede hablar no
+[02:07:28] [Server thread/INFO]: [Not Secure] <SonyVergas> y yo porque tengo que hablar que digo?
+[02:07:37] [Server thread/INFO]: [Not Secure] <SonyVergas> algo
+[02:07:38] [Server thread/INFO]: NeroMr[/127.123.177.1:54735] logged in with entity id 7942 at (4166.953506565725, 79.0, 2587.3327561276965)
+[02:07:38] [Server thread/INFO]: NeroMr joined the game
+[02:08:14] [Server thread/INFO]: [NeroMr: Set own game mode to Spectator Mode]
+[02:08:15] [Server thread/INFO]: [NeroMr: Set own game mode to Creative Mode]
+[02:08:18] [Server thread/INFO]: Asura2077[/127.34.137.85:45589] logged in with entity id 8578 at (953.9933247436252, 86.0, 26.334906724683403)
+[02:08:18] [Server thread/INFO]: Asura2077 joined the game
+[02:08:18] [Server thread/INFO]: [NeroMr: Set own game mode to Survival Mode]
+[02:08:47] [Server thread/INFO]: [Ayato21vt: Teleported Asura2077 to Ayato21vt]
+[02:09:05] [Server thread/INFO]: Corchetes was blown up by Creeper
+[02:09:18] [Server thread/INFO]: [NeroMr: Gamerule doImmediateRespawn is now set to: true]
+[02:10:21] [Server thread/INFO]: [NeroMr: Teleported NeroMr to Uki]
+[02:11:05] [Server thread/INFO]: Corchetes has made the advancement [Cover Me with Diamonds]
+[02:11:07] [Server thread/INFO]: [Not Secure] <SonyVergas> aja
+[02:11:14] [Server thread/INFO]: [Not Secure] <SonyVergas> porque me da la gana
+[02:11:47] [Server thread/INFO]: [Not Secure] <SonyVergas> ni usarla sabes
+[02:12:41] [Server thread/INFO]: [NeroMr: Set own game mode to Creative Mode]
+[02:12:46] [Server thread/INFO]: [NeroMr: Set own game mode to Survival Mode]
+[02:13:06] [Server thread/INFO]: NeroMr was slain by SonyVergas
+[02:13:15] [Server thread/INFO]: [NeroMr: Teleported NeroMr to Uki]
+[02:14:22] [Server thread/INFO]: Asura2077 hit the ground too hard
+[02:14:36] [Server thread/INFO]: [Not Secure] <Corchetes> dejen la manzana dorada ahi
+[02:14:44] [Server thread/INFO]: [Ayato21vt: Teleported Asura2077 to Ayato21vt]
+[02:14:46] [Server thread/INFO]: [NeroMr: Teleported Asura2077 to Uki]
+[02:14:50] [Server thread/INFO]: [SonyVergas: Teleported Asura2077 to SonyVergas]
+[02:14:58] [Server thread/INFO]: [NeroMr: Teleported Asura2077 to Ayato21vt]
+[02:15:03] [Server thread/INFO]: [Ayato21vt: Teleported Asura2077 to Ayato21vt]
+[02:15:16] [Server thread/INFO]: NeroMr fell from a high place
+[02:15:23] [Server thread/INFO]: [SonyVergas: Teleported Asura2077 to SonyVergas]
+[02:16:41] [Server thread/INFO]: [Not Secure] <Corchetes> porque meten cosas a mi cofre
+[02:17:19] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to Uki]
+[02:17:32] [Server thread/INFO]: [Not Secure] <SonyVergas> yo no peleo con ilegales
+[02:17:53] [Server thread/INFO]: [Not Secure] <SonyVergas> ahi we y el arbol frente de mi casa
+[02:18:10] [Server thread/INFO]: [Not Secure] <SonyVergas> le quitaron las hojas dejaron el tronco
+[02:18:33] [Server thread/INFO]: [Not Secure] <SonyVergas> a no es tierra
+[02:18:51] [Server thread/INFO]: [Not Secure] <SonyVergas> ni sabes
+[02:19:02] [Server thread/INFO]: [Not Secure] <SonyVergas> nada sabes
+[02:19:10] [Server thread/INFO]: [Not Secure] <SonyVergas> no
+[02:19:13] [Server thread/INFO]: [Not Secure] <Corchetes> si
+[02:19:20] [Server thread/INFO]: [Not Secure] <SonyVergas> eso ni tantito es
+[02:19:34] [Server thread/INFO]: [Not Secure] <Uki> a donde tan mamon sonyy
+[02:19:41] [Server thread/INFO]: [Not Secure] <SonyVergas> ?
+[02:19:57] [Server thread/INFO]: [Not Secure] <Uki> siempre le hace rage bait a nero
+[02:21:05] [Server thread/INFO]: [NeroMr: Teleported NeroMr to Uki]
+[02:21:16] [Server thread/INFO]: [NeroMr: Set own game mode to Creative Mode]
+[02:22:29] [Server thread/INFO]: [NeroMr: Set own game mode to Survival Mode]
+[02:25:50] [Server thread/INFO]: [NeroMr: Gamerule sendCommandFeedback is now set to: true]
+[02:26:02] [Server thread/INFO]: Locating element minecraft:pale_garden took 691 ms
+[02:27:05] [Server thread/INFO]: [NeroMr: Teleported NeroMr to 2821.500000, 100.500000, 3818.500000]
+[02:27:35] [Server thread/INFO]: [Ayato21vt: Teleported Asura2077 to Ayato21vt]
+[02:29:06] [Server thread/INFO]: [Not Secure] <SonyVergas> 0
+[02:29:13] [Server thread/INFO]: [Not Secure] <Corchetes> 4011/-18/2622
+[02:29:23] [Server thread/INFO]: SonyVergas was skewered by a falling stalactite
+[02:29:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02:30:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2136ms or 42 ticks behind
+[02:30:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6913ms or 138 ticks behind
+[02:30:43] [Server thread/INFO]: Asura2077 has made the advancement [Isn't It Iron Pick]
+[02:30:44] [Server thread/INFO]: Corchetes has made the advancement [Diamonds!]
+[02:31:31] [Server thread/INFO]: [Not Secure] <Uki> sony tan poca fe me tiene
+[02:31:37] [Server thread/INFO]: [Not Secure] <Corchetes> si
+[02:31:42] [Server thread/INFO]: [NeroMr: Teleported NeroMr to Uki]
+[02:31:55] [Server thread/INFO]: [NeroMr: Gamerule sendCommandFeedback is now set to: false]
+[02:32:00] [Server thread/INFO]: [Not Secure] <SonyVergas> quiere que le ponga Fe y me decenpicione o prefiere que ya me prepare
+[02:32:14] [Server thread/INFO]: [Not Secure] <SonyVergas> decepcione
+[02:32:49] [Server thread/INFO]: [Not Secure] <Uki> entonces asuma que es lo que voy a comprar en la feria de figuras a ver si le atina
+[02:33:51] [Server thread/INFO]: [Not Secure] <SonyVergas> con pico
+[02:33:54] [Server thread/INFO]: Asura2077 fell from a high place
+[02:34:08] [Server thread/INFO]: [Not Secure] <Corchetes> ayato sigues en la mineshart?
+[02:34:29] [Server thread/INFO]: [Not Secure] <Uki> me nalgueaste justo cuando me voltie
+[02:34:29] [Server thread/INFO]: [Asura2077: Teleported Asura2077 to Ayato21vt]
+[02:35:19] [Server thread/INFO]: NeroMr was killed
+[02:35:19] [Server thread/INFO]: [NeroMr: Killed NeroMr]
+[02:35:58] [Server thread/INFO]: Asura2077 tried to swim in lava
+[02:36:02] [Server thread/INFO]: [NeroMr: Set own game mode to Creative Mode]
+[02:36:09] [Server thread/INFO]: [NeroMr: Set own game mode to Survival Mode]
+[02:36:23] [Server thread/INFO]: [NeroMr: Set own game mode to Creative Mode]
+[02:36:36] [Server thread/INFO]: [Asura2077: Teleported Asura2077 to NeroMr]
+[02:36:44] [Server thread/INFO]: Uki drowned
+[02:38:04] [Server thread/INFO]: [NeroMr: Set own game mode to Survival Mode]
+[02:38:13] [Server thread/INFO]: [Uki: Teleported Corchetes to Uki]
+[02:38:28] [Server thread/INFO]: [NeroMr: Teleported NeroMr to Uki]
+[02:39:28] [Server thread/INFO]: [Not Secure] <Corchetes> quien hizo ese hueco
+[02:39:38] [Server thread/INFO]: [Not Secure] <Corchetes> pa desalojarlo que iba a aplanar
+[02:39:47] [Server thread/INFO]: [SonyVergas: Teleported SonyVergas to Uki]
+[02:42:09] [Server thread/INFO]: [Not Secure] <Corchetes> alado de mi base hay una minibase dentro de una montaña
+[02:42:13] [Server thread/INFO]: [Not Secure] <Corchetes> no se de quien es
+[02:42:17] [Server thread/INFO]: [Not Secure] <Asura2077> mia
+[02:42:22] [Server thread/INFO]: [Not Secure] <Corchetes> desaloje :v
+[02:42:32] [Server thread/INFO]: [Not Secure] <Corchetes> iba a aplanar xd
+[02:42:33] [Server thread/INFO]: [Not Secure] <Asura2077> guardame la madera
+[02:43:22] [Server thread/INFO]: SonyVergas fell from a high place
+[02:43:49] [Server thread/INFO]: [Not Secure] <Corchetes> ire a cargar el celu
+[02:44:00] [Server thread/INFO]: [Not Secure] <Uki> oks xd
+[02:46:37] [Server thread/INFO]: [Asura2077: Teleported Asura2077 to Uki]
+[02:46:53] [Server thread/INFO]: [Not Secure] <Asura2077> ama mateme
+[02:48:54] [Server thread/INFO]: [Not Secure] <Ayato21vt> alguien esta en mina?
+[02:49:06] [Server thread/INFO]: [Not Secure] <Corchetes> nop
+[02:49:57] [Server thread/INFO]: NeroMr lost connection: Timed out
+[02:49:57] [Server thread/INFO]: NeroMr left the game
+[02:50:22] [Server thread/INFO]: Asura2077 has made the advancement [Crafting a New Look]
+[02:50:28] [Server thread/INFO]: [Not Secure] <Corchetes> xd
+[02:50:54] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to Uki]
+[02:52:29] [Server thread/INFO]: NeroMr[/127.123.177.1:55595] logged in with entity id 65245 at (4192.300000011921, 106.0, 2704.300000011921)
+[02:52:29] [Server thread/INFO]: NeroMr joined the game
+[02:54:08] [Server thread/INFO]: [Not Secure] <Corchetes> mimision
+[02:54:35] [Server thread/INFO]: [Not Secure] <Asura2077> kill me
+[02:54:47] [Server thread/INFO]: Asura2077 was shot by Ayato21vt
+[02:54:57] [Server thread/INFO]: [Not Secure] <Asura2077> no tenia vida
+[02:55:36] [Server thread/INFO]: [Not Secure] <Corchetes> y yo no tengo comida xd
+[02:55:44] [Server thread/INFO]: [Not Secure] <SonyVergas> tu tranquilidad a la hora de matar a alguien ayato querie trabajo?
+[02:56:05] [Server thread/INFO]: [Not Secure] <Ayato21vt> ahora no xD voy a construir
+[02:56:13] [Server thread/INFO]: [Not Secure] <SonyVergas> chale
+[02:56:46] [Server thread/INFO]: [Not Secure] <SonyVergas> como sabes
+[02:58:14] [Server thread/INFO]: NeroMr lost connection: Timed out
+[02:58:14] [Server thread/INFO]: NeroMr left the game
+[02:58:18] [Server thread/INFO]: [Not Secure] <Uki> XD
+[02:58:49] [Server thread/INFO]: Asura2077 has made the advancement [What a Deal!]
+[02:59:37] [Server thread/INFO]: [Not Secure] <SonyVergas> si lo es
+[02:59:39] [Server thread/INFO]: NeroMr[/127.123.177.1:39049] logged in with entity id 71905 at (4202.95229971214, 106.0, 2694.5826035223927)
+[02:59:39] [Server thread/INFO]: NeroMr joined the game
+[03:00:51] [Server thread/INFO]: [Not Secure] <Uki> que hacen
+[03:00:57] [Server thread/INFO]: [Not Secure] <Corchetes> que vas a invocar a herobrine o que
+[03:01:00] [Server thread/INFO]: [Not Secure] <NeroMr> haciendo pala
+[03:01:02] [Server thread/INFO]: [Not Secure] <Uki> :0
+[03:01:03] [Server thread/INFO]: [Not Secure] <NeroMr> xd
+[03:01:08] [Server thread/INFO]: [Not Secure] <Corchetes> aplanando
+[03:01:12] [Server thread/INFO]: [Not Secure] <Corchetes> para mi casa
+[03:01:21] [Server thread/INFO]: [Not Secure] <Corchetes> quiero ver masomenos como delimito
+[03:01:30] [Server thread/INFO]: [Not Secure] <Uki> pobreel asurafue destrrado xd
+[03:01:30] [Server thread/INFO]: [Not Secure] <Corchetes> aunque capaz lo hago hasta mas grande la cas
+[03:01:43] [Server thread/INFO]: [Not Secure] <Uki> nice
+[03:01:52] [Server thread/INFO]: [Not Secure] <Corchetes> dije seria mansion
+[03:01:59] [Server thread/INFO]: [Not Secure] <Corchetes> como la casa que tenia en ese mundo que viste
+[03:02:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[03:02:04] [Server thread/INFO]: [Not Secure] <Uki> la mansion epstein sera
+[03:02:09] [Server thread/INFO]: [Not Secure] <Corchetes> en efecto
+[03:02:10] [Server thread/INFO]: [Not Secure] <Corchetes> digo
+[03:02:13] [Server thread/INFO]: [Not Secure] <Corchetes> xd
+[03:02:13] [Server thread/INFO]: [Not Secure] <Uki> ahhhh si me acuerdo
+[03:02:16] [Server thread/INFO]: [Not Secure] <Uki> :V
+[03:02:31] [Server thread/INFO]: [NeroMr: Gamerule sendCommandFeedback is now set to: false]
+[03:02:33] [Server thread/INFO]: [Not Secure] <Corchetes> donde asura hare cultivos estilo escalonado
+[03:02:41] [Server thread/INFO]: [NeroMr: Applied enchantment Efficiency V to NeroMr's item]
+[03:02:47] [Server thread/INFO]: [NeroMr: Applied enchantment Unbreaking III to NeroMr's item]
+[03:02:50] [Server thread/INFO]: [Not Secure] <Corchetes> una via que conecte con el pueblo
+[03:02:57] [Server thread/INFO]: [Not Secure] <Corchetes> y con una mini cueva de abajo
+[03:03:03] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=4174, y=109, z=2710} ja{x=4174, y=108, z=2709}
+[03:03:03] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=4174, y=109, z=2709} ja{x=4174, y=108, z=2709}
+[03:03:10] [Server thread/INFO]: [NeroMr: Applied enchantment Unbreaking III to NeroMr's item]
+[03:03:11] [Server thread/INFO]: [NeroMr: Applied enchantment Efficiency V to NeroMr's item]
+[03:03:31] [Server thread/INFO]: [Not Secure] <Uki> nero
+[03:04:02] [Server thread/INFO]: [Uki: Teleported Uki to NeroMr]
+[03:04:03] [Server thread/INFO]: [Not Secure] <NeroMr> mande
+[03:04:19] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=4171, y=109, z=2725} ja{x=4169, y=107, z=2724}
+[03:04:19] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=4170, y=109, z=2725} ja{x=4169, y=107, z=2724}
+[03:04:21] [Server thread/INFO]: [Not Secure] <Uki> me esta doliendo mi espalda ya me voyy
+[03:04:28] [Server thread/INFO]: [Not Secure] <NeroMr> uy, okis okis
+[03:04:32] [Server thread/INFO]: [Not Secure] <Corchetes> cuidese
+[03:04:35] [Server thread/INFO]: [Not Secure] <NeroMr> repose repose
+[03:04:40] [Server thread/INFO]: [Not Secure] <Uki> no me acoste desde que termine de trabajar xd me fui al tomodachi y luego vine aqui
+[03:04:42] [Server thread/INFO]: [Not Secure] <Ayato21vt> descanse descanse
+[03:04:49] [Server thread/INFO]: [Not Secure] <Uki> gracias a todos uwu
+[03:04:51] [Server thread/INFO]: [Not Secure] <NeroMr> descansa descansa
+[03:04:55] [Server thread/INFO]: [Not Secure] <Uki> los acompañare en vc
+[03:04:59] [Server thread/INFO]: [Not Secure] <NeroMr> okas okas
+[03:04:59] [Server thread/INFO]: Corchetes fell from a high place
+[03:05:01] [Server thread/INFO]: [Not Secure] <Uki> denmeun momento
+[03:05:15] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=4159, y=109, z=2714} ja{x=4160, y=109, z=2714}
+[03:05:18] [Server thread/INFO]: [Not Secure] <Corchetes> quitaron e mensaje de muerte?
+[03:06:00] [Server thread/INFO]: [Not Secure] <NeroMr> se aplico respawn inmediato
+[03:06:08] [Server thread/INFO]: [Not Secure] <Corchetes> me senti subaru
+[03:06:31] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=4173, y=108, z=2720} ja{x=4172, y=108, z=2720}
+[03:07:58] [Server thread/INFO]: Uki lost connection: Disconnected
+[03:07:58] [Server thread/INFO]: Uki left the game
+[03:08:22] [Server thread/INFO]: [Not Secure] <Corchetes> ayatos
+[03:08:29] [Server thread/INFO]: [Not Secure] <Corchetes> tenes tierra?
+[03:08:31] [Server thread/INFO]: [Not Secure] <SonyVergas> Quien esta en base
+[03:08:36] [Server thread/INFO]: [Not Secure] <Corchetes> yo xd
+[03:08:41] [Server thread/INFO]: [SonyVergas: Teleported SonyVergas to Corchetes]
+[03:08:41] [Server thread/INFO]: [Not Secure] <NeroMr> yo, a ambas preguntas xd
+[03:08:42] [Server thread/INFO]: [Not Secure] <Corchetes> thanks
+[03:08:48] [Server thread/INFO]: [Not Secure] <Corchetes> me sirve tambien
+[03:09:47] [Server thread/INFO]: [NeroMr: Teleported NeroMr to Asura2077]
+[03:09:54] [Server thread/INFO]: [NeroMr: Teleported NeroMr to Ayato21vt]
+[03:10:47] [Server thread/INFO]: [NeroMr: Applied enchantment Mending to NeroMr's item]
+[03:10:51] [Server thread/INFO]: [NeroMr: Set own game mode to Creative Mode]
+[03:10:59] [Server thread/INFO]: [NeroMr: Set own game mode to Survival Mode]
+[03:11:22] [Server thread/INFO]: [Not Secure] <Corchetes> ontas nero?
+[03:11:32] [Server thread/INFO]: [Not Secure] <NeroMr> en tu casa
+[03:11:36] [Server thread/INFO]: [Not Secure] <Corchetes> tenes la tierra?
+[03:11:43] [Server thread/INFO]: [Not Secure] <NeroMr> sigueme
+[03:12:03] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=4162, y=105, z=2700} ja{x=4177, y=107, z=2696}
+[03:12:03] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=4162, y=105, z=2700} ja{x=4177, y=107, z=2696}
+[03:12:03] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=4162, y=105, z=2700} ja{x=4177, y=107, z=2696}
+[03:12:03] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=4162, y=105, z=2700} ja{x=4177, y=107, z=2696}
+[03:12:12] [Server thread/INFO]: [Not Secure] <SonyVergas> Puedo hacerlo?
+[03:12:17] [Server thread/INFO]: [Not Secure] <SonyVergas> como sabes
+[03:12:21] [Server thread/INFO]: [Not Secure] <Corchetes> a
+[03:12:34] [Server thread/INFO]: [Not Secure] <NeroMr> todo esa montaña quitare xd
+[03:12:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[03:12:43] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=4170, y=109, z=2703} ja{x=4170, y=110, z=2702}
+[03:12:51] [Server thread/INFO]: [Not Secure] <Corchetes> vale te robo la tierra de momento
+[03:12:51] [Server thread/INFO]: [Not Secure] <SonyVergas> El que no duerma se lo culea el risa
+[03:12:54] [Server thread/INFO]: [Not Secure] <Corchetes> para aplanar
+[03:13:07] [Server thread/INFO]: [Not Secure] <Asura2077> no tengo cama abu
+[03:13:09] [Server thread/INFO]: [Not Secure] <SonyVergas> Busquen
+[03:13:12] [Server thread/INFO]: [Not Secure] <Corchetes> aca hay una
+[03:13:17] [Server thread/INFO]: [Not Secure] <Corchetes> una de uki
+[03:13:32] [Server thread/INFO]: [Not Secure] <Corchetes> llevatela si queres
+[03:13:45] [Server thread/INFO]: Ayato21vt fell from a high place
+[03:14:06] [Server thread/INFO]: [NeroMr: Teleported NeroMr to Asura2077]
+[03:14:37] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to NeroMr]
+[03:17:16] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=4169, y=109, z=2716} ja{x=4169, y=108, z=2715}
+[03:18:26] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=4166, y=111, z=2705} ja{x=4166, y=110, z=2706}
+[03:18:35] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=4163, y=108, z=2718} ja{x=4164, y=107, z=2717}
+[03:18:45] [Server thread/INFO]: [Not Secure] <SonyVergas> y esta full diamante
+[03:18:51] [Server thread/INFO]: [Not Secure] <Corchetes> quien?
+[03:18:51] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=4162, y=107, z=2717} ja{x=4163, y=107, z=2717}
+[03:18:53] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to 4192.500000, 1.000000, 2670.500000]
+[03:19:05] [Server thread/INFO]: [Not Secure] <SonyVergas> el no esta en llamada
+[03:19:19] [Server thread/INFO]: [Asura2077: Teleported Asura2077 to Ayato21vt]
+[03:19:20] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=4159, y=108, z=2711} ja{x=4159, y=108, z=2712}
+[03:19:25] [Server thread/INFO]: [Not Secure] <Corchetes> no
+[03:19:52] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to NeroMr]
+[03:23:08] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to Asura2077]
+[03:23:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[03:25:53] [Server thread/INFO]: Ayato21vt was doomed to fall by Creeper
+[03:26:31] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to Asura2077]
+[03:26:32] [Server thread/INFO]: [NeroMr: Successfully filled 2755 block(s)]
+[03:27:00] [Server thread/INFO]: [NeroMr: Successfully filled 245 block(s)]
+[03:28:28] [Server thread/INFO]: [Not Secure] <Asura2077> noooo
+[03:28:34] [Server thread/INFO]: [Not Secure] <Corchetes> que paso?
+[03:28:44] [Server thread/INFO]: [Asura2077: Teleported Asura2077 to Ayato21vt]
+[03:28:48] [Server thread/INFO]: [Not Secure] <Asura2077> me matan
+[03:29:04] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to NeroMr]
+[03:30:46] [Server thread/INFO]: [Not Secure] <Asura2077> ayato cuantos diamantes eran tuyos?
+[03:30:52] [Server thread/INFO]: [Not Secure] <SonyVergas> y yo
+[03:32:52] [Server thread/INFO]: [NeroMr: Set own game mode to Creative Mode]
+[03:34:52] [Server thread/INFO]: [Not Secure] <Corchetes> parece bunker xd
+[03:36:01] [Server thread/INFO]: [Not Secure] <Corchetes> coliseo romano?
+[03:40:03] [Server thread/INFO]: [Not Secure] <Corchetes> ayato vasa aminar?
+[03:41:09] [Server thread/INFO]: [Asura2077: Teleported Ayato21vt to Asura2077]
+[03:41:18] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to NeroMr]
+[03:41:22] [Server thread/INFO]: [NeroMr: Set own game mode to Survival Mode]
+[03:41:25] [Server thread/INFO]: [Ayato21vt: Teleported Asura2077 to Ayato21vt]
+[03:46:45] [Server thread/INFO]: [NeroMr: Gave 5 [Torch] to NeroMr]
+[03:47:01] [Server thread/INFO]: [NeroMr: Set own game mode to Creative Mode]
+[03:47:55] [Server thread/INFO]: [NeroMr: Gave 17 [Smooth Sandstone] to NeroMr]
+[03:48:10] [Server thread/INFO]: [NeroMr: Gave 8 [Bone Block] to NeroMr]
+[03:48:22] [Server thread/INFO]: [NeroMr: Gave 62 [Moss Block] to NeroMr]
+[03:48:39] [Server thread/INFO]: [NeroMr: Gave 2 [Skeleton Skull] to NeroMr]
+[03:52:15] [Server thread/INFO]: [NeroMr: Gave 219 [Tuff Bricks] to NeroMr]
+[03:54:30] [Server thread/INFO]: [Not Secure] <NeroMr> xaero-waypoint:Shared Location:S:2791:82:3796:15:false:0:Internal-overworld
+[03:56:25] [Server thread/INFO]: [Not Secure] <Corchetes> ayato tendras saplings de abeto?
+[04:01:47] [Server thread/INFO]: [NeroMr: Gave 156 [Stripped Birch Wood] to NeroMr]
+[04:02:14] [Server thread/INFO]: [NeroMr: Gave 156 [Stripped Oak Wood] to NeroMr]
+[04:02:23] [Server thread/INFO]: [NeroMr: Gave 76 [Stripped Oak Wood] to NeroMr]
+[04:03:47] [Server thread/INFO]: [Not Secure] <Corchetes> ya nada ya halle
+[04:03:53] [Server thread/INFO]: [NeroMr: Set own game mode to Survival Mode]
+[04:06:12] [Server thread/INFO]: Asura2077 was slain by Polar Bear
+[04:06:52] [Server thread/INFO]: [Not Secure] <SonyVergas> Duerman
+[04:07:04] [Server thread/INFO]: [Not Secure] <SonyVergas> O les gusta risa
+[04:07:13] [Server thread/INFO]: Ayato21vt fell from a high place
+[04:07:25] [Server thread/INFO]: Corchetes drowned
+[04:07:37] [Server thread/INFO]: [Ayato21vt: Teleported Ayato21vt to NeroMr]
+[04:07:37] [Server thread/INFO]: [Not Secure] <Asura2077> buena manera de dormir
+[04:08:34] [Server thread/INFO]: Asura2077 fell from a high place
+[04:10:14] [Server thread/INFO]: Asura2077 fell from a high place
+[04:14:20] [Server thread/INFO]: [NeroMr: Applied enchantment Sharpness V to NeroMr's item]
+[04:14:22] [Server thread/INFO]: [Asura2077: Teleported Asura2077 to SonyVergas]
+[04:14:39] [Server thread/INFO]: [NeroMr: Teleported NeroMr to SonyVergas]
+[04:14:55] [Server thread/INFO]: [NeroMr: Teleported NeroMr to 4165.500000, 106.500000, 2704.500000]
+[04:15:56] [Server thread/INFO]: SonyVergas has made the advancement [We Need to Go Deeper]
+[04:15:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3713ms or 74 ticks behind
+[04:16:00] [Server thread/INFO]: Asura2077 has made the advancement [We Need to Go Deeper]
+[04:18:15] [Server thread/INFO]: Asura2077 fell from a high place
+[04:18:23] [Server thread/INFO]: [Asura2077: Teleported Asura2077 to SonyVergas]
+[04:19:53] [Server thread/INFO]: Villager cyx['Villager'/320, l='ServerLevel[world]', x=4176.85, y=56.00, z=2544.30] died, message: 'Villager was slain by Zombie'
+[04:20:21] [Server thread/INFO]: Asura2077 fell from a high place
+[04:21:05] [Server thread/INFO]: [Asura2077: Teleported Asura2077 to SonyVergas]
+[04:22:51] [Server thread/INFO]: Asura2077 tried to swim in lava
+[04:22:58] [Server thread/INFO]: [Asura2077: Teleported Asura2077 to SonyVergas]
+[04:23:13] [Server thread/INFO]: SonyVergas has made the advancement [Those Were the Days]
+[04:23:17] [Server thread/INFO]: Asura2077 has made the advancement [Those Were the Days]
+[04:23:25] [Server thread/INFO]: SonyVergas tried to swim in lava to escape Piglin Brute
+[04:23:26] [Server thread/INFO]: Asura2077 tried to swim in lava to escape Piglin
+[04:24:35] [Server thread/INFO]: [Asura2077: Teleported Asura2077 to SonyVergas]
+[04:24:53] [Server thread/INFO]: Asura2077 lost connection: Disconnected
+[04:24:53] [Server thread/INFO]: Asura2077 left the game
+[04:24:55] [Server thread/INFO]: [Not Secure] <Corchetes> weno me voy
+[04:24:59] [Server thread/INFO]: Corchetes lost connection: Disconnected
+[04:24:59] [Server thread/INFO]: Corchetes left the game
+[04:27:24] [Server thread/INFO]: NeroMr lost connection: Disconnected
+[04:27:24] [Server thread/INFO]: NeroMr left the game
+[04:28:56] [Server thread/INFO]: Ayato21vt fell from a high place
+[04:30:32] [Server thread/INFO]: Ayato21vt lost connection: Disconnected
+[04:30:32] [Server thread/INFO]: Ayato21vt left the game
+[04:32:45] [Server thread/INFO]: NeroMr[/127.123.177.1:51059] logged in with entity id 170411 at (4163.756517779609, 106.0, 2706.1064083601486)
+[04:32:45] [Server thread/INFO]: NeroMr joined the game
+[04:35:16] [Server thread/INFO]: NeroMr lost connection: Timed out
+[04:35:16] [Server thread/INFO]: NeroMr left the game
+[04:35:27] [Server thread/INFO]: NeroMr[/127.123.177.1:39219] logged in with entity id 173364 at (4163.756517779609, 106.0, 2706.1064083601486)
+[04:35:27] [Server thread/INFO]: NeroMr joined the game
+[04:37:39] [Server thread/INFO]: [NeroMr: Set own game mode to Creative Mode]
+[04:38:54] [Server thread/INFO]: [Not Secure] <SonyVergas> tas en casa
+[04:39:00] [Server thread/INFO]: [NeroMr: Set own game mode to Survival Mode]
+[04:39:02] [Server thread/INFO]: [Not Secure] <NeroMr> si
+[04:39:10] [Server thread/INFO]: [SonyVergas: Teleported SonyVergas to NeroMr]
+[04:39:21] [Server thread/INFO]: [NeroMr: Gave 64 [Dark Oak Slab] to NeroMr]
+[04:39:22] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Slab] to NeroMr]
+[04:39:27] [Server thread/INFO]: [NeroMr: Gave 64 [Dark Oak Slab] to NeroMr]
+[04:39:29] [Server thread/INFO]: [NeroMr: Gave 64 [Dark Oak Slab] to NeroMr]
+[04:39:30] [Server thread/INFO]: [NeroMr: Gave 64 [Dark Oak Slab] to NeroMr]
+[04:39:31] [Server thread/INFO]: [NeroMr: Gave 64 [Dark Oak Slab] to NeroMr]
+[04:39:36] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Slab] to NeroMr]
+[04:39:37] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Slab] to NeroMr]
+[04:39:37] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Slab] to NeroMr]
+[04:39:37] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Slab] to NeroMr]
+[04:39:37] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Slab] to NeroMr]
+[04:39:39] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Slab] to NeroMr]
+[04:39:39] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Slab] to NeroMr]
+[04:39:39] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Slab] to NeroMr]
+[04:39:41] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Slab] to NeroMr]
+[04:39:41] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Slab] to NeroMr]
+[04:39:43] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Slab] to NeroMr]
+[04:39:52] [Server thread/INFO]: [NeroMr: Gave 1 [Oak Slab] to NeroMr]
+[04:39:52] [Server thread/INFO]: [NeroMr: Gave 1 [Oak Slab] to NeroMr]
+[04:39:52] [Server thread/INFO]: [NeroMr: Gave 1 [Oak Slab] to NeroMr]
+[04:39:53] [Server thread/INFO]: [NeroMr: Gave 1 [Oak Slab] to NeroMr]
+[04:39:53] [Server thread/INFO]: [NeroMr: Gave 1 [Oak Slab] to NeroMr]
+[04:39:55] [Server thread/INFO]: [NeroMr: Gave 1 [Oak Slab] to NeroMr]
+[04:39:56] [Server thread/INFO]: [NeroMr: Gave 1 [Oak Slab] to NeroMr]
+[04:40:08] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Slab] to NeroMr]
+[04:40:09] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Slab] to NeroMr]
+[04:40:11] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Slab] to NeroMr]
+[04:40:11] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Slab] to NeroMr]
+[04:40:11] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Slab] to NeroMr]
+[04:40:12] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Slab] to NeroMr]
+[04:40:12] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Slab] to NeroMr]
+[04:40:12] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Slab] to NeroMr]
+[04:40:12] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Slab] to NeroMr]
+[04:40:14] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Slab] to NeroMr]
+[04:40:14] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Slab] to NeroMr]
+[04:40:16] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Slab] to NeroMr]
+[04:40:25] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Slab] to NeroMr]
+[04:40:25] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Slab] to NeroMr]
+[04:40:25] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Slab] to NeroMr]
+[04:40:26] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Slab] to NeroMr]
+[04:40:26] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Slab] to NeroMr]
+[04:40:26] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Slab] to NeroMr]
+[04:40:29] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Slab] to NeroMr]
+[04:41:00] [Server thread/INFO]: [NeroMr: Gave 1 [Tuff Brick Wall] to NeroMr]
+[04:41:05] [Server thread/INFO]: [NeroMr: Gave 1 [Stone Brick Wall] to NeroMr]
+[04:41:05] [Server thread/INFO]: [NeroMr: Gave 1 [Stone Brick Wall] to NeroMr]
+[04:41:06] [Server thread/INFO]: [NeroMr: Gave 1 [Stone Brick Wall] to NeroMr]
+[04:41:06] [Server thread/INFO]: [NeroMr: Gave 1 [Stone Brick Wall] to NeroMr]
+[04:41:21] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Door] to NeroMr]
+[04:41:22] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Door] to NeroMr]
+[04:41:22] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Door] to NeroMr]
+[04:41:35] [Server thread/INFO]: [NeroMr: Gave 1 [Oak Fence Gate] to NeroMr]
+[04:41:54] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:41:56] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:41:58] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:41:58] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:41:58] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:41:59] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:41:59] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:41:59] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:41:59] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:41:59] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:41:59] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:00] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:00] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:00] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:01] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:01] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:01] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:02] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:02] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:02] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:02] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:02] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:02] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:03] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:03] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:03] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:03] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:03] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:04] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:04] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:04] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:04] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:04] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:04] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:05] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:05] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:05] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:05] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:05] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:07] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:07] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:07] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:07] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:08] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:08] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:09] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:09] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:09] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:10] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:12] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:13] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:14] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:14] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:16] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence Gate] to NeroMr]
+[04:42:32] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:32] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:33] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:33] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:33] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:33] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:33] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:33] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:33] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:34] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:34] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:34] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:34] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:34] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:34] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:35] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:35] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:35] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:35] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:35] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:36] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:36] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:36] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:36] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:36] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:38] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:38] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:38] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:38] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:38] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:38] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:39] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:39] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:39] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:39] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:39] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:41] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:41] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:41] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:41] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:42] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:42] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:42] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:42] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:42] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:43] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:42:43] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence Gate] to NeroMr]
+[04:43:08] [Server thread/INFO]: [NeroMr: Gave 64 [Mangrove Planks] to NeroMr]
+[04:43:10] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Planks] to NeroMr]
+[04:43:10] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Planks] to NeroMr]
+[04:43:11] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Planks] to NeroMr]
+[04:43:11] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Planks] to NeroMr]
+[04:43:11] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Planks] to NeroMr]
+[04:43:12] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Planks] to NeroMr]
+[04:43:19] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:19] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:19] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:19] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:19] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:20] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:20] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:20] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:20] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:20] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:20] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:21] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:21] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:21] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:21] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:21] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:21] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:22] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:22] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:22] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:22] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:22] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:22] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:23] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:23] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:23] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:23] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:23] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:24] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:24] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:24] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:24] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:24] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:24] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:25] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:25] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:25] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:25] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:25] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:26] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:26] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:26] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:26] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:26] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:27] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:27] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:27] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:27] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:27] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:43:27] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Planks] to NeroMr]
+[04:44:09] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Trapdoor] to NeroMr]
+[04:44:09] [Server thread/INFO]: SonyVergas lost connection: Disconnected
+[04:44:09] [Server thread/INFO]: SonyVergas left the game
+[04:44:09] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Trapdoor] to NeroMr]
+[04:44:09] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Trapdoor] to NeroMr]
+[04:44:09] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Trapdoor] to NeroMr]
+[04:44:10] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Trapdoor] to NeroMr]
+[04:44:10] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Trapdoor] to NeroMr]
+[04:44:10] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Trapdoor] to NeroMr]
+[04:44:10] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Trapdoor] to NeroMr]
+[04:44:10] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Trapdoor] to NeroMr]
+[04:44:11] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Trapdoor] to NeroMr]
+[04:44:11] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Trapdoor] to NeroMr]
+[04:44:11] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Trapdoor] to NeroMr]
+[04:44:11] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Trapdoor] to NeroMr]
+[04:44:11] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Trapdoor] to NeroMr]
+[04:44:12] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Trapdoor] to NeroMr]
+[04:44:12] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Trapdoor] to NeroMr]
+[04:44:13] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Trapdoor] to NeroMr]
+[04:44:13] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Trapdoor] to NeroMr]
+[04:44:13] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Trapdoor] to NeroMr]
+[04:44:13] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Trapdoor] to NeroMr]
+[04:44:14] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Trapdoor] to NeroMr]
+[04:44:14] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Trapdoor] to NeroMr]
+[04:44:53] [Server thread/INFO]: [NeroMr: Gave 1 [Waxed Weathered Copper Trapdoor] to NeroMr]
+[04:44:54] [Server thread/INFO]: [NeroMr: Gave 1 [Waxed Weathered Copper Trapdoor] to NeroMr]
+[04:44:57] [Server thread/INFO]: [NeroMr: Gave 1 [Waxed Weathered Copper Trapdoor] to NeroMr]
+[04:44:57] [Server thread/INFO]: [NeroMr: Gave 1 [Waxed Weathered Copper Trapdoor] to NeroMr]
+[04:44:58] [Server thread/INFO]: [NeroMr: Gave 1 [Waxed Weathered Copper Trapdoor] to NeroMr]
+[04:44:58] [Server thread/INFO]: [NeroMr: Gave 1 [Waxed Weathered Copper Trapdoor] to NeroMr]
+[04:45:09] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:09] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:10] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:10] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:10] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:10] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:10] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:10] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:11] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:11] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:11] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:11] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:11] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:11] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:12] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:12] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:12] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:12] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:12] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:12] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:13] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:13] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:13] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:13] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:13] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:18] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:18] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Trapdoor] to NeroMr]
+[04:45:24] [Server thread/INFO]: [NeroMr: Gave 1 [Oak Trapdoor] to NeroMr]
+[04:45:24] [Server thread/INFO]: [NeroMr: Gave 1 [Oak Trapdoor] to NeroMr]
+[04:45:32] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:32] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:33] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:33] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:33] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:33] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:33] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:33] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:33] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:34] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:34] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:34] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:34] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:34] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:34] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:34] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:35] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:35] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:35] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:35] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:35] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:35] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:36] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:36] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:36] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:36] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:36] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:36] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:37] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:37] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:37] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:37] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:37] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:37] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:38] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:38] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:38] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:38] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:38] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:39] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:39] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:39] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:39] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:39] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:45:40] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Trapdoor] to NeroMr]
+[04:46:10] [Server thread/INFO]: [NeroMr: Gave 1 [Stripped Spruce Log] to NeroMr]
+[04:46:10] [Server thread/INFO]: [NeroMr: Gave 1 [Stripped Spruce Log] to NeroMr]
+[04:46:10] [Server thread/INFO]: [NeroMr: Gave 1 [Stripped Spruce Log] to NeroMr]
+[04:46:10] [Server thread/INFO]: [NeroMr: Gave 1 [Stripped Spruce Log] to NeroMr]
+[04:46:10] [Server thread/INFO]: [NeroMr: Gave 1 [Stripped Spruce Log] to NeroMr]
+[04:46:11] [Server thread/INFO]: [NeroMr: Gave 1 [Stripped Spruce Log] to NeroMr]
+[04:46:11] [Server thread/INFO]: [NeroMr: Gave 1 [Stripped Spruce Log] to NeroMr]
+[04:46:11] [Server thread/INFO]: [NeroMr: Gave 1 [Stripped Spruce Log] to NeroMr]
+[04:46:11] [Server thread/INFO]: [NeroMr: Gave 1 [Stripped Spruce Log] to NeroMr]
+[04:46:11] [Server thread/INFO]: [NeroMr: Gave 1 [Stripped Spruce Log] to NeroMr]
+[04:46:11] [Server thread/INFO]: [NeroMr: Gave 1 [Stripped Spruce Log] to NeroMr]
+[04:46:12] [Server thread/INFO]: [NeroMr: Gave 1 [Stripped Spruce Log] to NeroMr]
+[04:46:12] [Server thread/INFO]: [NeroMr: Gave 1 [Stripped Spruce Log] to NeroMr]
+[04:46:12] [Server thread/INFO]: [NeroMr: Gave 1 [Stripped Spruce Log] to NeroMr]
+[04:46:12] [Server thread/INFO]: [NeroMr: Gave 1 [Stripped Spruce Log] to NeroMr]
+[04:46:12] [Server thread/INFO]: [NeroMr: Gave 1 [Stripped Spruce Log] to NeroMr]
+[04:46:13] [Server thread/INFO]: [NeroMr: Gave 1 [Stripped Spruce Log] to NeroMr]
+[04:46:15] [Server thread/INFO]: [NeroMr: Gave 1 [Stripped Spruce Log] to NeroMr]
+[04:46:16] [Server thread/INFO]: [NeroMr: Gave 1 [Stripped Spruce Log] to NeroMr]
+[04:46:28] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:28] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:28] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:29] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:29] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:29] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:29] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:29] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:29] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:30] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:30] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:30] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:30] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:30] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:30] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:30] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:31] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:31] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:31] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:31] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:31] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:32] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:32] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:32] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:32] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:32] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:32] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:33] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:35] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:35] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:35] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:36] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:36] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:36] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:36] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:36] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:36] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:36] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:39] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:39] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:39] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:41] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:43] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:46:46] [Server thread/INFO]: [NeroMr: Gave 1 [Mangrove Log] to NeroMr]
+[04:48:09] [Server thread/INFO]: [NeroMr: Set own game mode to Creative Mode]
+[04:48:23] [Server thread/INFO]: [NeroMr: Set own game mode to Survival Mode]
+[04:48:37] [Server thread/INFO]: [NeroMr: Gave 1 [Oak Log] to NeroMr]
+[04:48:37] [Server thread/INFO]: [NeroMr: Gave 1 [Oak Log] to NeroMr]
+[04:48:37] [Server thread/INFO]: [NeroMr: Gave 1 [Oak Log] to NeroMr]
+[04:48:38] [Server thread/INFO]: [NeroMr: Gave 1 [Oak Log] to NeroMr]
+[04:48:38] [Server thread/INFO]: [NeroMr: Gave 1 [Oak Log] to NeroMr]
+[04:48:38] [Server thread/INFO]: [NeroMr: Gave 1 [Oak Log] to NeroMr]
+[04:48:38] [Server thread/INFO]: [NeroMr: Gave 1 [Oak Log] to NeroMr]
+[04:48:39] [Server thread/INFO]: [NeroMr: Gave 1 [Oak Log] to NeroMr]
+[04:48:39] [Server thread/INFO]: [NeroMr: Gave 1 [Oak Log] to NeroMr]
+[04:48:39] [Server thread/INFO]: [NeroMr: Gave 1 [Oak Log] to NeroMr]
+[04:48:42] [Server thread/INFO]: [NeroMr: Gave 1 [Oak Log] to NeroMr]
+[04:48:58] [Server thread/INFO]: [NeroMr: Gave 64 [Dark Oak Log] to NeroMr]
+[04:49:00] [Server thread/INFO]: [NeroMr: Gave 64 [Dark Oak Log] to NeroMr]
+[04:49:00] [Server thread/INFO]: [NeroMr: Gave 64 [Dark Oak Log] to NeroMr]
+[04:49:00] [Server thread/INFO]: [NeroMr: Gave 64 [Dark Oak Log] to NeroMr]
+[04:49:00] [Server thread/INFO]: [NeroMr: Gave 64 [Dark Oak Log] to NeroMr]
+[04:49:01] [Server thread/INFO]: [NeroMr: Gave 64 [Dark Oak Log] to NeroMr]
+[04:49:15] [Server thread/INFO]: [NeroMr: Gave 64 [Stripped Dark Oak Log] to NeroMr]
+[04:49:16] [Server thread/INFO]: [NeroMr: Gave 64 [Stripped Dark Oak Log] to NeroMr]
+[04:49:16] [Server thread/INFO]: [NeroMr: Gave 64 [Stripped Dark Oak Log] to NeroMr]
+[04:49:34] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence] to NeroMr]
+[04:49:35] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence] to NeroMr]
+[04:49:35] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence] to NeroMr]
+[04:49:35] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence] to NeroMr]
+[04:49:35] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence] to NeroMr]
+[04:49:35] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence] to NeroMr]
+[04:49:35] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence] to NeroMr]
+[04:49:35] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence] to NeroMr]
+[04:49:36] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence] to NeroMr]
+[04:49:36] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence] to NeroMr]
+[04:49:36] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence] to NeroMr]
+[04:49:36] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence] to NeroMr]
+[04:49:36] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence] to NeroMr]
+[04:49:36] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence] to NeroMr]
+[04:49:37] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence] to NeroMr]
+[04:49:37] [Server thread/INFO]: [NeroMr: Gave 1 [Spruce Fence] to NeroMr]
+[04:49:48] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence] to NeroMr]
+[04:49:48] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence] to NeroMr]
+[04:49:48] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence] to NeroMr]
+[04:49:49] [Server thread/INFO]: [NeroMr: Gave 1 [Dark Oak Fence] to NeroMr]
+[04:50:07] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:07] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:07] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:07] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:08] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:08] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:08] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:08] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:08] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:08] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:09] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:09] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:09] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:09] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:09] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:09] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:09] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:11] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:12] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:12] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:12] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:12] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:12] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:12] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:12] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:13] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:13] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:13] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:13] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:13] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:15] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:15] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:15] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:16] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:16] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:18] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:18] [Server thread/INFO]: [NeroMr: Gave 1 [Light Gray Stained Glass Pane] to NeroMr]
+[04:50:28] [Server thread/INFO]: [NeroMr: Gave 1 [Red Candle] to NeroMr]
+[04:50:29] [Server thread/INFO]: [NeroMr: Gave 1 [Red Candle] to NeroMr]
+[04:50:29] [Server thread/INFO]: [NeroMr: Gave 1 [Red Candle] to NeroMr]
+[04:50:30] [Server thread/INFO]: [NeroMr: Gave 1 [Red Candle] to NeroMr]
+[04:50:31] [Server thread/INFO]: [NeroMr: Gave 1 [Red Candle] to NeroMr]
+[04:50:38] [Server thread/INFO]: [NeroMr: Gave 64 [Netherrack] to NeroMr]
+[04:50:39] [Server thread/INFO]: [NeroMr: Gave 1 [Netherrack] to NeroMr]
+[04:50:39] [Server thread/INFO]: [NeroMr: Gave 1 [Netherrack] to NeroMr]
+[04:50:39] [Server thread/INFO]: [NeroMr: Gave 1 [Netherrack] to NeroMr]
+[04:50:39] [Server thread/INFO]: [NeroMr: Gave 1 [Netherrack] to NeroMr]
+[04:50:39] [Server thread/INFO]: [NeroMr: Gave 1 [Netherrack] to NeroMr]
+[04:50:40] [Server thread/INFO]: [NeroMr: Gave 1 [Netherrack] to NeroMr]
+[04:51:18] [Server thread/INFO]: [NeroMr: Gave 64 [Red Nether Bricks] to NeroMr]
+[04:51:20] [Server thread/INFO]: [NeroMr: Gave 1 [Red Nether Bricks] to NeroMr]
+[04:51:20] [Server thread/INFO]: [NeroMr: Gave 1 [Red Nether Bricks] to NeroMr]
+[04:51:20] [Server thread/INFO]: [NeroMr: Gave 1 [Red Nether Bricks] to NeroMr]
+[04:51:21] [Server thread/INFO]: [NeroMr: Gave 1 [Red Nether Bricks] to NeroMr]
+[04:51:21] [Server thread/INFO]: [NeroMr: Gave 1 [Red Nether Bricks] to NeroMr]
+[04:51:22] [Server thread/INFO]: [NeroMr: Gave 1 [Red Nether Bricks] to NeroMr]
+[04:51:33] [Server thread/INFO]: NeroMr has made the advancement [Spooky Scary Skeleton]
+[04:51:33] [Server thread/INFO]: [NeroMr: Gave 1 [Wither Skeleton Skull] to NeroMr]
+[04:51:37] [Server thread/INFO]: [NeroMr: Gave 1 [Wither Skeleton Skull] to NeroMr]
+[04:51:37] [Server thread/INFO]: [NeroMr: Gave 1 [Wither Skeleton Skull] to NeroMr]
+[04:51:37] [Server thread/INFO]: [NeroMr: Gave 1 [Wither Skeleton Skull] to NeroMr]
+[05:08:43] [Server thread/INFO]: NeroMr lost connection: Disconnected
+[05:08:43] [Server thread/INFO]: NeroMr left the game
+[05:09:43] [Server thread/INFO]: Server empty for 60 seconds, pausing
